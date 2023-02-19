@@ -11,7 +11,7 @@ class Nhut_Quang {
     this.research = ['Machine Learning', 'Blockchain', 'Cyber Security'];
     this.interest = ['Reading', 'Coding', 'Trading','Travel', 'Cooking'];
     this.skills = ['Javascript','Python','C', 'C++','Node.js','TypeScript'];
-    this.work = 'Fron End ';
+    this.work = 'Front End ';
   }
 
   communication() {
