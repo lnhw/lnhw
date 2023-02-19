@@ -18,4 +18,3 @@ class Nhut_Quang {
     const email = 'nhutquang7x2o1@gmail.com';
   }
 }
-```javascript
