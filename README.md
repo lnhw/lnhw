@@ -29,4 +29,20 @@ class Nhut_Quang {
   <img src = "https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" width = 460>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
 </p>
+# Languages 
+<ul style="list-style:none;display:flex;flex-wrap:wrap;padding:0;">
+  <li style="display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:10px;"/> JavaScript
+  </li>
+  <li style="display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" style="margin-right:10px;"/> TypeScript
+  </li>
+  <li style="display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
+    <img src="https://img.icons8.com/color/48/000000/python.png" style="margin-right:10px;"/> Python
+  </li>
+  <li style="display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="margin-right:10px;"/> C/C++
+  </li>
+</ul>
+
 
