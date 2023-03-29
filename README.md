@@ -21,7 +21,7 @@ class Nhut_Quang {
 
 
 
-
+```
 # Status 
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=lnq7x2o1&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" width = 460>
