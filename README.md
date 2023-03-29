@@ -34,4 +34,8 @@ class Nhut_Quang {
 | --- | --- |
 | ### Tiêu đề 1 <br> ![Hình ảnh 1](https://via.placeholder.com/150x150) | ### Tiêu đề 2 <br> ![Hình ảnh 2](https://via.placeholder.com/150x150) |
 
+| Tiêu đề cột 1 | Tiêu đề cột 2 |
+| --- | --- |
+| Nội dung cột 1 | Nội dung cột 2 |
+
 
