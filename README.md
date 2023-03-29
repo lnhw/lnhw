@@ -24,18 +24,11 @@ class Nhut_Quang {
 ```
 # Quang's Profile
 
-<p align="center">
+<p align="center" style="display:"flex";alig-item:"center"; >
   <img src = "https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" width = 460>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
 </p>
 
-<!-- Đoạn mã Markdown -->
-| Cột 1 (Title) | Cột 2 (Title) |
-| --- | --- |
-| ### Tiêu đề 1 <br> ![Hình ảnh 1](https://via.placeholder.com/150x150) | ### Tiêu đề 2 <br> ![Hình ảnh 2](https://via.placeholder.com/150x150) |
-
-| --- | --- |
-| <img src = "https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" width = 460> | <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340> |
 
 
 
