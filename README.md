@@ -33,15 +33,15 @@ class Nhut_Quang {
 
 # Languages 
 <ul style="list-style:none;display:flex;flex-wrap:wrap;padding:0;">
-  <li style="display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
+  <li style="list-style:none;display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:10px;"/> 
-  <li style="display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
+  <li style="list-style:none;display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
     <img src="https://img.icons8.com/color/48/000000/typescript.png" style="margin-right:10px;"/>
   </li>
-  <li style="display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
+  <li style="list-style:none;display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
     <img src="https://img.icons8.com/color/48/000000/python.png" style="margin-right:10px;"/> 
   </li>
-  <li style="display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
+  <li style="list-style:none;display:flex;align-items:center;margin-right:20px;margin-bottom:20px;padding:5px;border-radius:5px;transition:all 0.2s ease-in-out;">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="margin-right:10px;"/> 
   </li>
 </ul>
