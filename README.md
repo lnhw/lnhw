@@ -23,7 +23,7 @@ class Nhut_Quang {
 
 ```
 # Status 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=_nhut_quang_)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=_nhut_quang_&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
 
