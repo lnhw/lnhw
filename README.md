@@ -26,12 +26,12 @@ class Nhut_Quang {
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&count_private=true&layout=compact&theme=graywhite&include_all_commits=true" 
+       src="https://github-readme-stats.vercel.app/api?username=_nhutquang_&show_icons=true&count_private=true&layout=compact&theme=graywhite&include_all_commits=true" 
        align="left" style="height: 250px"
   />
   
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&theme=graywhite&include_all_commits=true" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=_nhutquang_&layout=compact&theme=graywhite&include_all_commits=true" 
        align="right" style="height: 250px" 
   /> 
 </p>
