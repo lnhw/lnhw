@@ -25,9 +25,9 @@ class Nhut_Quang {
 # Quang's Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&count_private=true&layout=compact&theme=dark&include_all_commits=true" align="left" style="height: 150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&count_private=true&layout=compact&theme=radical&include_all_commits=true" align="left" style="height: 150px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&theme=dark&include_all_commits=true" align="right" style="height: 150px" /><br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&theme=radical&include_all_commits=true" align="right" style="height: 150px" /><br/>  
 </p>
 
 
