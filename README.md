@@ -25,21 +25,16 @@ class Nhut_Quang {
 # Quang's Profile
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&hide_border=true&theme=graywhite&theme=radical)
   <img 
-       src ="https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" 
-       width = 460
+       src="https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&count_private=true&layout=compact&theme=graywhite&include_all_commits=true" 
+       align="left" style="height: 250px"
   />
+  
   <img 
-       src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" 
-       width = 340
-  />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&theme=graywhite)
-  
-  
-  ![GithubStats](https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=True&theme=cobalt)
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lnq7x201&show_icons=true&theme=highcontrast"/>
-</>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&theme=graywhite&include_all_commits=true" 
+       align="right" style="height: 250px" 
+  /> 
+</p>
 
 
 
