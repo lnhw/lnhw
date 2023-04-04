@@ -30,7 +30,7 @@ class Nhut_Quang {
   
   
   ![GithubStats](https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=True&theme=cobalt)
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Wh04m1001&show_icons=true&theme=highcontrast"/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lnq7x201&show_icons=true&theme=highcontrast"/>
 </>
 
 
