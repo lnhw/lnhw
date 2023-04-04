@@ -25,6 +25,7 @@ class Nhut_Quang {
 # Quang's Profile
 
 <p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true&theme=radical)
   <img 
        src ="https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true" 
        width = 460
