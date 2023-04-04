@@ -25,15 +25,9 @@ class Nhut_Quang {
 # Quang's Profile
 
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=_nhutquang_&show_icons=true&count_private=true&layout=compact&theme=graywhite&include_all_commits=true" 
-       align="left" style="height: 250px"
-  />
-  
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=_nhutquang_&layout=compact&theme=graywhite&include_all_commits=true" 
-       align="right" style="height: 250px" 
-  /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Fullstack-WEB-Blockchain-Developer&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fullstack-WEB-Blockchain-Developer&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
 </p>
 
 
