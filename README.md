@@ -34,6 +34,7 @@ class Nhut_Quang {
        src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lnq7x201&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" 
        width = 340
   />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=true&theme=graywhite)
   
   
   ![GithubStats](https://github-readme-stats.vercel.app/api?username=lnq7x201&show_icons=True&theme=cobalt)
