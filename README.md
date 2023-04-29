@@ -10,7 +10,7 @@ class Nhut_Quang {
     this.education = 'I'm a student studying at HUFI university and ';
     this.research = ['ReactJS' ,'Machine Learning', 'Blockchain', 'Cyber Security'];
     this.interest = ['Reading', 'Coding', 'Trading','Travel', 'Cooking'];
-    this.skills = ['Javascript','Python','Typescript','C/C++'];
+    this.skills = ['Javascript','Typescript','Python','C/C++'];
    
   }
 
