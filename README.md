@@ -8,7 +8,7 @@ class Nhut_Quang {
   constructor() {
     this.nickname = 'lnq';
     this.education = 'I'm a student studying at HUFI university and ';
-    this.research = ['ReactJS' ,'Machine Learning', 'Blockchain', 'Cyber Security'];
+    this.research = ['Machine Learning', 'Security', 'Blockchain'];
     this.interest = ['Reading', 'Coding', 'Trading','Travel', 'Cooking'];
     this.skills = ['Javascript','Typescript','Python','C/C++'];
    
