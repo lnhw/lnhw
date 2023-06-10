@@ -7,19 +7,15 @@
 class Nhut_Quang {
   constructor() {
     this.nickname = 'lnq';
-    this.education = 'I'm a student studying at HUFI university and ';
+    this.education = 'I'm a student studying at HUFI university ';
     this.research = ['Security', 'RE'];
     this.interest = ['Reading', 'Coding', 'Trading','Travel', 'Cooking'];
     this.skills = ['Javascript','Typescript','Python','C/C++'];
-   
   }
-
   communication() {
     const email = 'nhutquang7x2o1@gmail.com';
   }
 }
-
-
 
 ```
 
