@@ -1,7 +1,7 @@
 ### Hi there <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="29"> 
 
 ```javascript
-class Nhut_Quang {
+class whoami {
   constructor() {
     this.nickname = 'lnq';
     this.education = 'I'm a student studying at HUT university ';
