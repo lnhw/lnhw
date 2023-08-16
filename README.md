@@ -4,7 +4,7 @@
 class whoami {
   constructor() {
     this.nickname = 'lnq';
-    this.education = 'I'm a student studying at HUT university ';
+    this.education = 'I'm a student studying at HUIT university ';
     this.interest = ['Reading', 'Coding', 'Trading','Travel', 'Cooking'];
     this.skills = ['Javascript','Typescript','Python','C/C++'];
   }
