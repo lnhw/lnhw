@@ -5,8 +5,8 @@ class whoami:
     def __init__(self):
         self.nickname = 'Nhut Quang'
         self.education = 'I'm a student studying at HUIT university'
-        self.interest = ['Reading', 'Coding', 'Trading','Travel', 'Cooking']
-        self.skills = ['Javascript','Python','Typescript','C/C++']
+        self.interests = ['Reading', 'Coding', 'Trading',' Travel', 'Cooking']
+        self.skills = ['Javascript', 'Python', 'Typescript', 'C/C++']
 
     def communication(self):
         email = 'nhutquang7x2o1@gmail.com'
