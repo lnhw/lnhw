@@ -7,7 +7,7 @@ class whoami:
         self.education = 'I am a student studying at HUIT university'
         seft.goal = ["Software Engineering",],
         self.interests = ['Reading', 'Coding', 'Rsrch',' Travel', 'Cooking']
-        self.skills = ['Javascript', 'Typescript', 'Python', 'C++']
+        self.skills = ['Javascript', 'Typescript', 'Python', 'C']
 
     def communication(self):
         email = 'nhutquang7x2o1@gmail.com'
