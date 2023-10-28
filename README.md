@@ -5,8 +5,8 @@ class whoami:
     def __init__(self):
         self.nickname = 'Nhut Quang'
         self.education = 'I am a student senior at HUIT'
-        seft.goal = ["Software Engineering",],
-        self.interests = ['Reading', 'Trading', 'Coding', 'Rsrch', ' Travel', 'Cooking']
+        seft.goal = ["Software Engineering"]
+        self.interests = ['Reading', 'Training', 'Coding', 'Rsrch', ' Traveling', 'Cooking']
         self.skills = ['Javascript', 'Typescript', 'Python', 'C']
 
     def communication(self):
