@@ -10,7 +10,7 @@ class whoami:
         self.skills = ['Javascript', 'Typescript', 'Python', 'C']
 
     def communication(self):
-        email = 'nhutquang7x2o1@gmail.com'
+        email = 'nhutquang77201@gmail.com'
 
 ```
 
